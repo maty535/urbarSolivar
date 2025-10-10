@@ -41,7 +41,7 @@ Vyhľadávanie v oznamoch: <!-- Search Input --> <input type="text" id="search-i
 ### Témy:
 <ul class="tag-list">
     {% for tag in all_tags %}
-        <li><a href="{{ site.tag_dir | prepend: '/' }}/{{ tag | uri_escape }}">{{ tag }}</a></li>
+        <li><a class="btn btn-primary tag-btn" href="{{ site.tag_dir | prepend: '/' }}/{{ tag | uri_escape }}">{{ tag }}</a></li>
     {% endfor %}
 
 </ul>
