@@ -4,25 +4,23 @@ title: O nás
 description: Základne právne a registračné informácie o spoločenstve
 ---
 
-Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a zveľadovať ju tak, aby bolo zachované životné prostredie a ráz krajiny v súlade s vhodnými životnými podmienkami nielen vlastníkov spoločných nehnuteľností, ale aj všetkých obyvateľov a žijúcich druhov v tomto prostredí. 
-
-- Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo pôsobí na základe zákona: [97/2013 Z. z. z 26. marca 2013 o pozemkových spoločenstvách](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/) 
+- Urbár Solivar pozem. spol. pôsobí na základe zákona: [97/2013 Z. z. z 26. marca 2013 o pozemkových spoločenstvách](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/) 
 
 # Registrácia spoločenstva v registri pozemkových spoločenstiev
 
 | ID | hodnota |
 | :---------- | :-------------------------------------------------------- |
-| **Názov** | Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo |
-| **Sídlo** | Obchodná 25/15, 082 52 Dulova Ves |
-| **IČO** | 42379831 |
-| **Dátum zápisu** | 10.03.2014 |
-| **Vložka číslo** | R-0054/PO |
+| **Názov** | Urbár Solivar pozem. spol. |
+| **Sídlo** | Na vyhliadke 6, 080 05	Prešov	 |
+| **IČO** | 42382742 |
+| **Dátum zápisu** | 14.07.2014 |
+| **Vložka číslo** | R-0090/PO |
 | **Stav PS** | Zaregistrovaná |
 | **Funkčné obdobie výboru** | 5 rokov |
 | **Funkčné obdobie dozornej rady** | 5 rokov |
 | **Vykonáva podnikateľskú činnosť?** | nie |
 | **Spoločenstvo vlastníkov spoločne obhospod. nehnuteľnosti** | nie |
-| **Poznámka** | funkčné obdobie aktuálneho výboru a dorozornej rady plynie od 26.5.2024 a konči najneskôr 25.5.2029 |
+| **Poznámka** | funkčné obdobie aktuálneho výboru a dorozornej rady plynie od 	16.06.2025 a konči najneskôr 	15.06.2030 |
 
 ## Katastrálne informácie
 [//]: # https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=414&cadastralUnitCode=813591&outputType=html
