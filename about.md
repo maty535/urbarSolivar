@@ -8,6 +8,7 @@ description: Základne právne a registračné informácie o spoločenstve
 
 # Registrácia spoločenstva v registri pozemkových spoločenstiev
 
+
 | ID | hodnota |
 | :---------- | :-------------------------------------------------------- |
 | **Názov** | Urbár Solivar pozem. spol. |
@@ -23,6 +24,7 @@ description: Základne právne a registračné informácie o spoločenstve
 | **Poznámka** | funkčné obdobie aktuálneho výboru a dorozornej rady plynie od 	16.06.2025 a konči najneskôr 	15.06.2030 |
 
 ## Katastrálne informácie
+
 [//]: # https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=414&cadastralUnitCode=813591&outputType=html
 [//]: # (https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1033&cadastralUnitCode=874159&outputType=html) 
 
