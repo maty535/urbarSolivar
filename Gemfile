@@ -2,14 +2,17 @@
 
 source "https://rubygems.org"
 
-# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
-# and associated library.
-platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", ">= 1", "< 3"
-  gem "tzinfo-data"
-end
 
-# Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
-  
-gemspec
+gem "jekyll", "~> 3.1"
+gem "minima", github: "jekyll/minima", ref: "1e8a445"
+gem "kramdown-parser-gfm"
+#gem  install "jekyll-alerts-tag.rb", path: "_plugins/"
+#gem  "jekyll-alerts-tag.rb",path: "_plugins/"
+
+group :jekyll_plugins do
+  gem  "jekyll-remote-theme"
+  gem  "jekyll-feed"
+  gem  "jekyll-seo-tag"
+  gem  "jekyll-paginate-v2"
+  gem  "jekyll-spaceship"
+end
