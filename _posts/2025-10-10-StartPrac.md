@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Odštartovanie prna webovom sídle"
+title: "Odštartovanie prác na webovom sídle"
 date: 2025-10-10
 categories: web 
 tags: 2025 podielnici
