@@ -6,6 +6,8 @@ author: Výbor spoločenstva
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
+# Tags
+tag_dir: tag
 
 navbar-links:
   O nás: "about"
