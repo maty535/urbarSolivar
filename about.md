@@ -9,8 +9,6 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 
 # Registrácia spoločenstva v registri pozemkových spoločenstiev
 
-<br/>
-
 | Identifikátor  | hodnota  |
 | :---------- | :-------------------------------------------------------- |
 | **Názov** | Urbár Solivar pozem. spol. |
@@ -28,8 +26,6 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 <br/>
 
 ## Katastrálne informácie
-
-<br/>
 
 | Číslo k.ú. | Názov k.ú. | Číslo LV | Poznámka (typ pozemkov) | Výmera [ha] |
 |----------: | :--------- | :------- | :--------| --------:|
