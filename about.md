@@ -11,7 +11,7 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 
 <br/>
 
-| {: style=";background-color: #A69594; color: white;font-weight: bold;" }&nbsp;  | {: style=";background-color: #A69594; color: white;font-weight: bold;" } &nbsp;  |
+| Identifikátor  | hodnota  |
 | :---------- | :-------------------------------------------------------- |
 | **Názov** | Urbár Solivar pozem. spol. |
 | **Sídlo** | Na vyhliadke 6, 080 05	Prešov	 |
@@ -39,7 +39,7 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 | 857301 | SOLIVAR    | [4378]({{ page.kataster_lv_uri_prefix }}&prfNumber=4378&cadastralUnitCode=857301)   | TPP, Orná pôda, Zastavaná plocha a nádvorie |   0.0636  |	
 | 874159 | ŽEHŇA      | [635]({{ page.kataster_lv_uri_prefix }}&prfNumber=635&cadastralUnitCode=874159)	    | TPP                                         |   0.3643  |
 |===
-| Spolu:   {: style=";background-color: #A69594; color: white;font-weight: bold;" }  | 237.7490  {: style=";background-color: #A69594; color: white;font-weight: bold;" }  :||||
+| Spolu:   {: style=";background-color: #A69594; color: white;font-weight: bold;" }  | 237.7490 ha {: style=";background-color: #A69594; color: white;font-weight: bold;" }  :||||
 
 <br/>
 
