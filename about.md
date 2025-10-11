@@ -47,7 +47,7 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 ![image](/assets/img/2025-10-11-MapaUrbaru-small.png)
 - [stiahnuť mapu ako pdf](/assets/2025-10-11-UrbarskePozemky.pdf)
 
-<iframe src="https://zbgis.skgeodesy.sk/mapka/e/3aeaL?pos=48.965496,21.309050,12&bm=world-imagery" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://zbgis.skgeodesy.sk/mapka/e/ac88R?pos=48.953387,21.302007,12&bm=world-imagery" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 # História
 - [stručné historické míľniky](/historia/)
