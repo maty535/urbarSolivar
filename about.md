@@ -8,9 +8,10 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 - Urbár Solivar pozem. spol. pôsobí na základe zákona: [97/2013 Z. z. z 26. marca 2013 o pozemkových spoločenstvách](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/) 
 
 # Registrácia spoločenstva v registri pozemkových spoločenstiev
-</br>
 
-| {: style=";background-color: #A69594; color: white;font-weight: bold;" }  | {: style=";background-color: #A69594; color: white;font-weight: bold;" }  |
+<br/>
+
+| {: style=";background-color: #A69594; color: white;font-weight: bold;" }&nbsp;  | {: style=";background-color: #A69594; color: white;font-weight: bold;" } &nbsp;  |
 | :---------- | :-------------------------------------------------------- |
 | **Názov** | Urbár Solivar pozem. spol. |
 | **Sídlo** | Na vyhliadke 6, 080 05	Prešov	 |
@@ -24,11 +25,11 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 | **Spoločenstvo vlastníkov spoločne obhospod. nehnuteľnosti** | nie |
 | **Poznámka** | funkčné obdobie aktuálneho výboru a dorozornej rady plynie od 	16.06.2025 a konči najneskôr 	15.06.2030 |
 
-</br>
+<br/>
 
 ## Katastrálne informácie
 
-</br>
+<br/>
 
 | Číslo k.ú. | Názov k.ú. | Číslo LV | Poznámka (typ pozemkov) | Výmera [ha] |
 |----------: | :--------- | :------- | :--------| --------:|
@@ -40,8 +41,7 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 |===
 | Spolu:   {: style=";background-color: #A69594; color: white;font-weight: bold;" }  | 237.7490  {: style=";background-color: #A69594; color: white;font-weight: bold;" }  :||||
 
-</br>
-</br>
+<br/>
 
 ![Typ spoločných pozemkov](https://github.com/user-attachments/assets/58a333bb-a95a-433d-937d-aff32d753b69)
 <img alt="Podla katastralneho uzemia" src="https://github.com/user-attachments/assets/067408ca-d718-446c-bfcb-dd69eb4b7929" />
