@@ -14,9 +14,9 @@ tag_dir: tag
 navbar-links:
   O nás: "about"
   Informácie:
-    - Organizačná štruktúra: "https://beautifuljekyll.com"
-    - Registrácia spoločenstva: "https://www.markdowntutorial.com/"
-  Kontakty: "https://deanattali.com"
+    - Organizačná štruktúra: "organization"
+    - Registrácia spoločenstva: "about"
+  Kontakty: "contacts"
 
 ################
 # --- Logo --- #
