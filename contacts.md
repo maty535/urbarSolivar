@@ -5,7 +5,7 @@ description: Oficialné kontakty spoločenstva
 permalink: /contacts/
 ---
 
-|Názov|Kontakt|
+| {: style=";background-color: #808080; color: white;font-weight: bold;" }  Identifikátor | {: style=";background-color: #808080; color: white;font-weight: bold;" } Kontakt |
 |:-------------|:------------------|
 |**IČO**| 42382742|
 |**DIČ**| 2024117447 |
