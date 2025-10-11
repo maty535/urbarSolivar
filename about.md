@@ -30,16 +30,14 @@ description: Základne právne a registračné informácie o spoločenstve
 
 | Číslo k.ú. | Názov k.ú. | Číslo LV | Poznámka (typ pozemkov)|Výmera [ha]|
 |----------: | :--------- | :------- | :--------| --------:|
-| 813591 | DULOVA VES | {% capture lv_url %}[414]({{ page.kataster_lv_uri_prefix }}-414.html){% endcapture %}  {{ lv_url }} | TPP |	5.9829	|	
-| 813591 | DULOVA VES | [822]({{ page.kataster_lv_uri_prefix }}-822.html) | TPP, orná pôda |19.0824		|	
-| 813591 | DULOVA VES | [1133]({{ page.kataster_lv_uri_prefix }}-1133.html) | Zastavaná plocha a nádvorie|0.0127		|	
-| 813591 | DULOVA VES | [1600]({{ page.kataster_lv_uri_prefix }}-1600.html)| Lesný pozemok, Ostatná plocha, Trvalý trávny porast, Vodná plocha, Zastavaná plocha a nádvorie |43.9012|
-| 874159 | ŽEHŇA | [634]({{ page.kataster_lv_uri_prefix }}-634.html)	    | TPP |	0.0518|
-| 874159 | ŽEHŇA | [1033]({{ page.kataster_lv_uri_prefix }}-1033.html)     | TPP | 24.4756|	
-| 874159 | ŽEHŇA | [1037]({{ page.kataster_lv_uri_prefix }}-1037.html)     | Lesný pozemok |35.1536|
-| 874159 | ŽEHŇA | [1050]({{ page.kataster_lv_uri_prefix }}-1050.html)     | Lesný pozemok |0.0287|
+| 813591 | DULOVA VES | {% capture lv_url %}[447]({{ page.kataster_lv_uri_prefix }}-447.html){% endcapture %}  {{ lv_url }} | TPP |	5.9829	|	
+| 825387 | KOKOŠOVCE  | [495]({{ page.kataster_lv_uri_prefix }}-495.html)   | TPP, orná pôda              | 19.0824		|	
+| 857301 | SOLIVAR    | [3590]({{ page.kataster_lv_uri_prefix }}-3590.html)   | Zastavaná plocha a nádvorie | 0.0127		|	
+| 857301 | SOLIVAR    | [4378]({{ page.kataster_lv_uri_prefix }}-4378.html)   | Zastavaná plocha a nádvorie | 0.0127		|	
+| 874159 | ŽEHŇA      | [635]({{ page.kataster_lv_uri_prefix }}-635.html)	     | TPP                         | 0.0518|
+
 |===
-| Spolu:   {: style=";background-color: #08A04B; color: white;font-weight: bold;" }  | 128.6889  {: style=";background-color: #08A04B; color: white;font-weight: bold;" }  :||||
+| Spolu:   {: style=";background-color: #A69594; color: white;font-weight: bold;" }  | 128.6889  {: style=";background-color: #08A04B; color: white;font-weight: bold;" }  :||||
 
 ![Typ spoločných pozemkov](https://github.com/user-attachments/assets/a14b834c-ce20-4120-9a46-1a3f0e7e6fdf)
 
