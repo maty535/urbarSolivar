@@ -8,9 +8,7 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 - Urbár Solivar pozem. spol. pôsobí na základe zákona: [97/2013 Z. z. z 26. marca 2013 o pozemkových spoločenstvách](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/) 
 
 # Registrácia spoločenstva v registri pozemkových spoločenstiev
-
 <br/>
-
 | {: style=";background-color: #808080; color: white;font-weight: bold;" }  Identifikátor  | {: style=";background-color: #808080; color: white;font-weight: bold;" } Hodnota  |
 | :---------- | :-------------------------------------------------------- |
 | **Názov** | Urbár Solivar pozem. spol. |
@@ -26,9 +24,7 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 | **Poznámka** | funkčné obdobie aktuálneho výboru a dorozornej rady plynie od 	16.06.2025 a konči najneskôr 	15.06.2030 |
 
 ## Katastrálne informácie
-
 <br/>
-
 | Číslo k.ú. | Názov k.ú. | Číslo LV | Poznámka (typ pozemkov) | Výmera [ha] |
 |----------: | :--------- | :------- | :--------| --------:|
 | 813591 | DULOVA VES | [447]({{ page.kataster_lv_uri_prefix }}&prfNumber=447&cadastralUnitCode=813591)     | TPP, Lesný pozemok, Ostatná plocha          |	177.5093  |	
@@ -40,7 +36,6 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 | Spolu:   {: style=";background-color: #808080; color: white;font-weight: bold;" }  | 237.7490 ha {: style=";background-color: #808080; color: white;font-weight: bold;" }  :||||
 
 <br/>
-
 ![Typ spoločných pozemkov](https://github.com/user-attachments/assets/58a333bb-a95a-433d-937d-aff32d753b69)
 <img alt="Podla katastralneho uzemia" src="https://github.com/user-attachments/assets/067408ca-d718-446c-bfcb-dd69eb4b7929" />
 
