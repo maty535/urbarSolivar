@@ -34,7 +34,7 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 | 857301 | SOLIVAR    | [4378]({{ page.kataster_lv_uri_prefix }}&prfNumber=4378&cadastralUnitCode=857301)   | Zastavaná plocha a nádvorie             | 0.0127		|	
 | 874159 | ŽEHŇA      | [635]({{ page.kataster_lv_uri_prefix }}&prfNumber=635&cadastralUnitCode=874159)	    | TPP                                     | 0.0518    |
 |===
-| Spolu:   {: style=";background-color: #A69594; color: white;font-weight: bold;" }  | 128.6889  {: style=";background-color: #08A04B; color: white;font-weight: bold;" }  :||||
+| Spolu:   {: style=";background-color: #A69594; color: white;font-weight: bold;" }  | 128.6889  {: style=";background-color: #A69594; color: white;font-weight: bold;" }  :||||
 
 ![Typ spoločných pozemkov](https://github.com/user-attachments/assets/a14b834c-ce20-4120-9a46-1a3f0e7e6fdf)
 
