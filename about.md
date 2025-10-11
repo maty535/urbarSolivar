@@ -37,8 +37,6 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 | Spolu:   {: style=";background-color: #A69594; color: white;font-weight: bold;" }  | 128.6889  {: style=";background-color: #A69594; color: white;font-weight: bold;" }  :||||
 
 ![Typ spoločných pozemkov](https://github.com/user-attachments/assets/58a333bb-a95a-433d-937d-aff32d753b69)
-<img width="1103" height="786" alt="image" src="https://github.com/user-attachments/assets/58a333bb-a95a-433d-937d-aff32d753b69" />
-
 
 # Mapa urbárskych pozemkov
 ![image](/assets/img/2024-12-25-MapaUrbaru-small.png)
