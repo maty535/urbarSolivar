@@ -18,7 +18,7 @@ permalink: /organization/
 | Ján Komár                  | člen               | 16.06.2025 | 090 | 
 | **Mgr. Eva Štefániková**   | člen  - zastupuje predsedu             | 16.06.2025 | 091 | 
 
--  funkčné obdobie aktuálneho výboru a dorozornej rady plynie od 16.6.2025 a konči najneskôr 15.6.2030
+-  funkčné obdobie aktuálneho výboru a dozornej rady plynie od 16.6.2025 a konči najneskôr 15.6.2030
 
 
 ## Dozorná rada
