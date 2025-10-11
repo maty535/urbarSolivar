@@ -28,8 +28,8 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 
 | Číslo k.ú. | Názov k.ú. | Číslo LV | Poznámka (typ pozemkov) | Výmera [ha] |
 |----------: | :--------- | :------- | :--------| --------:|
-| 813591 | DULOVA VES | [447]({{ page.kataster_lv_uri_prefix }}&prfNumber=495&cadastralUnitCode=813591)     | TPP, Lesný pozemok, Ostatná plocha          |	   |	
-| 825387 | KOKOŠOVCE  | [495]({{ page.kataster_lv_uri_prefix }}&prfNumber=447&cadastralUnitCode=825387)     | TPP, Lesný pozemok, Orná pôda               | 177.5093		|	
+| 813591 | DULOVA VES | [447]({{ page.kataster_lv_uri_prefix }}&prfNumber=447&cadastralUnitCode=813591)     | TPP, Lesný pozemok, Ostatná plocha          |	   |	
+| 825387 | KOKOŠOVCE  | [495]({{ page.kataster_lv_uri_prefix }}&prfNumber=495&cadastralUnitCode=825387)     | TPP, Lesný pozemok, Orná pôda               | 177.5093		|	
 | 857301 | SOLIVAR    | [3590]({{ page.kataster_lv_uri_prefix }}&prfNumber=3590&cadastralUnitCode=857301)   | TPP                                         | 39.8894		|	
 | 857301 | SOLIVAR    | [4378]({{ page.kataster_lv_uri_prefix }}&prfNumber=4378&cadastralUnitCode=857301)   | TPP, Orná pôda, Zastavaná plocha a nádvorie |  0.0636		|	
 | 874159 | ŽEHŇA      | [635]({{ page.kataster_lv_uri_prefix }}&prfNumber=635&cadastralUnitCode=874159)	    | TPP                                         |  0.3643   |
