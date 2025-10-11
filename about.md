@@ -9,6 +9,7 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 
 # Registrácia spoločenstva v registri pozemkových spoločenstiev
 <br/>
+
 | {: style=";background-color: #808080; color: white;font-weight: bold;" }  Identifikátor  | {: style=";background-color: #808080; color: white;font-weight: bold;" } Hodnota  |
 | :---------- | :-------------------------------------------------------- |
 | **Názov** | Urbár Solivar pozem. spol. |
@@ -25,6 +26,7 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 
 ## Katastrálne informácie
 <br/>
+
 | Číslo k.ú. | Názov k.ú. | Číslo LV | Poznámka (typ pozemkov) | Výmera [ha] |
 |----------: | :--------- | :------- | :--------| --------:|
 | 813591 | DULOVA VES | [447]({{ page.kataster_lv_uri_prefix }}&prfNumber=447&cadastralUnitCode=813591)     | TPP, Lesný pozemok, Ostatná plocha          |	177.5093  |	
