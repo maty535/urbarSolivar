@@ -10,7 +10,7 @@ permalink: /organization/
 
 ## Výbor
 
-|Meno|Funkcia|Od|Kontakt|
+| {: style=";background-color: #808080; color: white;font-weight: bold;" } Meno | {: style=";background-color: #808080; color: white;font-weight: bold;" } Funkcia | {: style=";background-color: #808080; color: white;font-weight: bold;" } Od | {: style=";background-color: #808080; color: white;font-weight: bold;" } Kontakt |
 |:-------------|:------------------|:------|:------|
 | **Ing. Beáta Bajužíková**  | člen - predseda    | 16.06.2025 | 090 | 
 | Bohuslav Socha             | člen   | 16.06.2025 | 090 |
@@ -23,7 +23,7 @@ permalink: /organization/
 
 ## Dozorná rada
 
-|Meno|Funkcia|Od|Kontakt|
+|{: style=";background-color: #808080; color: white;font-weight: bold;" } Meno | {: style=";background-color: #808080; color: white;font-weight: bold;" } Funkcia| {: style=";background-color: #808080; color: white;font-weight: bold;" } Od | {: style=";background-color: #808080; color: white;font-weight: bold;" } Kontakt |
 |:------------- |:------------------|:------|:------|
 | **Peter Fecko**       | Predseda         |  16.06.2025  |  |
 | Gabriela Semanová | Člen             |  16.06.2025  |  |
