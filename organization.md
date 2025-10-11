@@ -25,7 +25,7 @@ permalink: /organization/
 
 |Meno|Funkcia|Od|Kontakt|
 |:------------- |:------------------|:------|:------|
-| Peter Fecko       | Predseda         |  16.06.2025  |  |
+| **Peter Fecko**       | Predseda         |  16.06.2025  |  |
 | Gabriela Semanová | Člen             |  16.06.2025  |  |
 | Matej Pulik       | Člen             |  16.06.2025  |	 |
 
