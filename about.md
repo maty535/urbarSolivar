@@ -38,6 +38,7 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 | Spolu:   {: style=";background-color: #808080; color: white;font-weight: bold;" }  | 237.7490 ha {: style=";background-color: #808080; color: white;font-weight: bold;" }  :||||
 
 <br/>
+
 ![Typ spoločných pozemkov](https://github.com/user-attachments/assets/58a333bb-a95a-433d-937d-aff32d753b69)
 <img alt="Podla katastralneho uzemia" src="https://github.com/user-attachments/assets/067408ca-d718-446c-bfcb-dd69eb4b7929" />
 
