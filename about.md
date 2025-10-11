@@ -48,8 +48,8 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 
 
 # Mapa urbárskych pozemkov
-![image](/assets/img/2024-12-25-MapaUrbaru-small.png)
-- [stiahnuť mapu ako pdf](/assets/2024-12-25-UrbarskePozemky.pdf)
+![image](/assets/img/2025-10-11-MapaUrbaru-small.png)
+- [stiahnuť mapu ako pdf](/assets/2025-10-11-UrbarskePozemky.pdf)
 
 # História
 - [stručné historické míľniky](/historia/)
