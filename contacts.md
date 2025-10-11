@@ -15,5 +15,5 @@ permalink: /contacts/
 |**bankový kontakt**| **SK63 ??? ** (banka) <br/> |
 |**dozorná rada**| +421 |
 |**štatutárny zástupca spoločenstva**| +421  |
+|**Finstat**| [Finančné ukazovatele](https://finstat.sk/42382742)|
 
-[Finančné ukazovatele](https://finstat.sk/42382742)
