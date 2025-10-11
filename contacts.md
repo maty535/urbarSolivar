@@ -9,7 +9,7 @@ permalink: /contacts/
 |:-------------|:------------------|
 |**IČO**| 42382742|
 |**DIČ**| 2024117447 |
-|**DIČ DPH**| SK2024117447 |
+|**IČ DPH**| SK2024117447 |
 |**email**| urbar.solivar@gmail.com|  
 |**sídlo**| Urbár Solivar pozem. spol.,<br/> Na vyhliadke 6,<br/> 080 05 Prešov |
 |**mobil**| ??? | 
