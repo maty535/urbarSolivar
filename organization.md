@@ -39,4 +39,4 @@ Výbor si spomedzi seba zvolil štatutárnych zástupcov, ktorí majú splnomocn
 
  
 ## Odborný lesný hospodár [OLH]: 
-- Žula Peter, mobil: 0905 273 772
+- 
