@@ -1,4 +1,5 @@
-url: "https://maty535.github.io/urbarSolivar"
+# _config.yml
+baseurl: "/urbarSolivar"
 
 # Name of website
 title: Urbár Solivar pozem. spol.
