@@ -9,7 +9,7 @@ permalink: /docs/
 | Dátum        | Dokument          |
 |-------------:|:------------------|
 | 14.1.2014   | [Zmluva o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](https://drive.google.com/file/d/1Pg6B8VEVYo5mc-6O8N4A9P99IBiuphA1/view?usp=drive_link) |
-|  4.6.2016   | [Stanovy pozemkového spoločenstva](https://drive.google.com/file/d/1Pg6B8VEVYo5mc-6O8N4A9P99IBiuphA1/view?usp=drive_link) |
+|  4.6.2016   | [Stanovy pozemkového spoločenstva](https://drive.google.com/file/d/1Pfh-lHlUxjskoGDWySCoEPAnnQeqxNPW/view?usp=drive_link) |
 
 # Zákony
 
