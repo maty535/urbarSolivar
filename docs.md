@@ -6,14 +6,14 @@ permalink: /docs/
 ---
 # Zakladateľské dokumenty
 
-| Dátum        | Dokument          |
+| {: style=";background-color: #808080; color: white;font-weight: bold;" } Dátum        | {: style=";background-color: #808080; color: white;font-weight: bold;" } Dokument          |
 |-------------:|:------------------|
 | 14.1.2014   | [Zmluva o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](https://drive.google.com/file/d/1Pg6B8VEVYo5mc-6O8N4A9P99IBiuphA1/view?usp=drive_link) |
 |  4.6.2016   | [Stanovy pozemkového spoločenstva](https://drive.google.com/file/d/1Pfh-lHlUxjskoGDWySCoEPAnnQeqxNPW/view?usp=drive_link) |
 
 # Zákony
 
-| Dátum           | Číslo     | Názov             |
+| {: style=";background-color: #808080; color: white;font-weight: bold;" } Dátum           | {: style=";background-color: #808080; color: white;font-weight: bold;" } Číslo     | {: style=";background-color: #808080; color: white;font-weight: bold;" } Názov             |
 |:-------------   |:------------------|:------------------|
 |26.3. 2013        |[97/2013](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/) |[O pozemkových spoločenstvách](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/)|
 |23.06.2005        |[326/2005](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2005/326/) |[O lesoch](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2005/326/)|
@@ -27,20 +27,20 @@ permalink: /docs/
 
 # Projekty
 
-| Dátum        | Dokument          | Stav |
+| {: style=";background-color: #808080; color: white;font-weight: bold;" } Dátum        | {: style=";background-color: #808080; color: white;font-weight: bold;" } Dokument          | {: style=";background-color: #808080; color: white;font-weight: bold;" } Stav |
 |:-------------|:------------------|:------|
 | 18.6.2025    |[Juhovýchodný obchvat mesta Prešov](https://drive.google.com/file/d/1fENZ0vw4DWGOBrMYk4bUUpL8nrJOkXH1/view?usp=drive_link)|
 
 
 # Lesné hospodárstvo
 
-| Dátum        | Dokument          | Stav |
+| {: style=";background-color: #808080; color: white;font-weight: bold;" } Dátum        | {: style=";background-color: #808080; color: white;font-weight: bold;" } Dokument          | {: style=";background-color: #808080; color: white;font-weight: bold;" } Stav |
 |:-------------|:------------------|:------|
 | |Program starostlivosti o les 2020 - 2029 | aktuálny, v platnosti|
 
 # Právo
 
-| Dátum        | Dokument          | Stav |
+| {: style=";background-color: #808080; color: white;font-weight: bold;" } Dátum        | {: style=";background-color: #808080; color: white;font-weight: bold;" } Dokument          | {: style=";background-color: #808080; color: white;font-weight: bold;" } Stav |
 |:-------------|:------------------|:------|
 | | | |
 
