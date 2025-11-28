@@ -117,8 +117,8 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 <iframe src="https://zbgis.skgeodesy.sk/mapka/e/ac88R?pos=48.953387,21.302007,12&bm=world-imagery" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 # História
-- [stručné historické míľniky](/historia/)
+- [stručné historické míľniky]({{ '/historia/' | relative_url }})
 
 # Zakladajúca zmluva
-- [zmluva + stanovy](/docs/)
+- [zmluva + stanovy]({{ '/docs/' |relative_url }})
 
