@@ -84,10 +84,10 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 
           if (clickedElementIndex === 0) {
             // Index 0: Lesný pozemok
-            redirectUrl = 'http://solivar.imcontec.eu/assets/img/mapa-lesy.jpg';
+            redirectUrl = '/assets/img/mapa-lesy.jpg';
           } else if (clickedElementIndex === 1) {
             // Index 1: Trvalý trávny porast (Pasienky)
-            redirectUrl = 'http://solivar.imcontec.eu/assets/img/mapa-pasienky.jpg';
+            redirectUrl = '/assets/img/mapa-pasienky.jpg';
           }
 
           if (redirectUrl) {
