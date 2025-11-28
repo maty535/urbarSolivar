@@ -39,22 +39,64 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 |===
 | Spolu:   {: style=";background-color: #808080; color: white;font-weight: bold;" }  | 237.7490 ha {: style=";background-color: #808080; color: white;font-weight: bold;" }  :||||
 
-<img src="https://github.com/user-attachments/assets/58a333bb-a95a-433d-937d-aff32d753b69" alt="Výmera urbáru podľa druhu plochy" 
-     usemap="#urbarMap"
-     data-original-width="960" 
-     data-original-height="960">
-<map name="urbarMap">
-    <area shape="poly" 
-          coords="480,480, 480,200,  850,220,  850,750,  200,750,  250,550,  480,480" 
-          href="http://solivar.imcontec.eu/assets/img/mapa-lesy.jpg" 
-          alt="Mapa lesných pozemkov"
-          title="Lesné pozemky (82,8%) - KLIKNITE PRE MAPU">
-    <area shape="poly" 
-          coords="480,480,  250,550,  200,250,  480,200,  480,480" 
-          href="http://solivar.imcontec.eu/assets/img/mapa-pasienky.jpg" 
-          alt="Mapa trvalých trávnych porastov"
-          title="Trvalý trávny porast (17,1%) - KLIKNITE PRE MAPU">          
-</map>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<div style="max-width: 500px; margin: 0 auto;">
+  <canvas id="pozemkyChartKlikatelny"></canvas>
+</div>
+<script>
+  const dataPozemkyKlikatelny = {
+    labels: [
+      'Lesný pozemok (82.8%)',
+      'Trvalý trávny porast (17.1%)',
+      'Ostatná plocha (0.1%)'
+    ],
+    datasets: [{
+      data: [196.87, 40.74, 0.14], // Výmery v ha
+      backgroundColor: [
+        'rgb(40, 167, 69)', // Zelená (Les)
+        'rgb(255, 193, 7)', // Žltá (TPP)
+        'rgb(108, 117, 125)' // Sivá (Ostatné)
+      ],
+      hoverOffset: 4
+    }]
+  };
+
+  const configPozemkyKlikatelny = {
+    type: 'pie',
+    data: dataPozemkyKlikatelny,
+    options: {
+      responsive: true,
+      plugins: {
+        legend: {
+          position: 'top',
+        },
+        title: {
+          display: true,
+          text: 'Rozdelenie pozemkov podľa typu (v ha) - Kliknite pre detaily'
+        }
+      },
+      // PRIDANIE KLIKATEĽNOSTI:
+      onClick: (e, elements) => {
+        if (elements.length > 0) {
+          const clickedElementIndex = elements[0].index;
+          const label = dataPozemkyKlikatelny.labels[clickedElementIndex];
+          const value = dataPozemkyKlikatelny.datasets[0].data[clickedElementIndex];
+
+          alert(`Klikli ste na: ${label}\nVýmera: ${value} ha`);
+          // Tu môžete pridať zložitejšiu logiku, napr.
+          // - Otvorenie modálneho okna s viacerými informáciami
+          // - Presmerovanie na novú stránku (window.location.href = '/stranka-lesy');
+        }
+      }
+    },
+  };
+
+  new Chart(
+    document.getElementById('pozemkyChartKlikatelny'),
+    configPozemkyKlikatelny
+  );
+</script>
+
 <img alt="Podla katastralneho uzemia" src="https://github.com/user-attachments/assets/067408ca-d718-446c-bfcb-dd69eb4b7929" />
 
 
