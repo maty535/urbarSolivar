@@ -43,6 +43,3 @@ permalink: /docs/
 |:-------------|:------------------|:------|
 | | | |
 
-# Stanovy
-
-- Pripravujeme
