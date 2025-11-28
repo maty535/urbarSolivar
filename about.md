@@ -40,23 +40,50 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 | Spolu:   {: style=";background-color: #808080; color: white;font-weight: bold;" }  | 237.7490 ha {: style=";background-color: #808080; color: white;font-weight: bold;" }  :||||
 
 
-<img src="https://github.com/user-attachments/assets/58a333bb-a95a-433d-937d-aff32d753b69" alt="Výmera urbáru podľa druhu plochy" usemap="#urbarMap"
-     data-original-width="960" 
-     data-original-height="960">
-<map name="urbarMap">
-    <area shape="poly" 
-          coords="480,480,  480,200,  850,220,  850,750,  200,750,  250,550,  480,480" 
-          href="http://solivar.imcontec.eu/assets/img/mapa-lesy.jpg" 
-          alt="Mapa lesných pozemkov"
-          title="Lesné pozemky (82,8%) - KLIKNITE PRE MAPU">
+<svg viewBox="0 0 100 100" width="100%" height="auto">
+        <defs>
+            <style type="text/css"><![CDATA[
+                .chart-label { font-size: 3.5px; fill: #333; text-anchor: middle; dominant-baseline: central; }
+                .chart-value { font-size: 3px; fill: #333; text-anchor: middle; dominant-baseline: central; }
+                .chart-percentage { font-size: 2.5px; fill: #555; text-anchor: middle; dominant-baseline: central; }
+                .legend-label { font-size: 2.8px; fill: #333; }
+                .legend-percentage { font-size: 2.2px; fill: #555; }
+                .legend-line { stroke: #888; stroke-width: 0.2; }
+            ]]></style>
+        </defs>
 
-    <area shape="poly" 
-          coords="480,480,  250,550,  200,250,  480,200,  480,480" 
-          href="http://solivar.imcontec.eu/assets/img/mapa-pasienky.jpg" 
-          alt="Mapa trvalých trávnych porastov"
-          title="Trvalý trávny porast (17,1%) - KLIKNITE PRE MAPU">
-          
-</map>
+        <a href="http://solivar.imcontec.eu/assets/img/mapa-lesy.jpg" target="_blank" title="Lesné pozemky - Kliknite pre mapu">
+            <path 
+                d="M50 50 L50 10 A40 40 0 1 1 19.14 74.32 L31.96 66.45 A25 25 0 1 0 50 25 Z" 
+                fill="#7D6539" 
+            />
+        </a>
+
+        <a href="http://solivar.imcontec.eu/assets/img/mapa-pasienky.jpg" target="_blank" title="Trvalý trávny porast - Kliknite pre mapu">
+            <path 
+                d="M50 50 L19.14 74.32 A40 40 0 0 1 50 10 L50 25 A25 25 0 0 0 31.96 66.45 Z" 
+                fill="#387D39" 
+            />
+        </a>
+        
+        <text class="chart-value" x="50" y="55">196,8699 ha</text>
+
+        <text class="chart-value" x="35" y="45">40,7359 ha</text>
+
+
+        <line x1="82" y1="80" x2="70" y2="70" class="legend-line" />
+        <text class="legend-label" x="85" y="80" text-anchor="start" fill="#333">Lesný pozemok</text>
+        <text class="legend-percentage" x="85" y="84" text-anchor="start" fill="#555">82,8%</text>
+
+        <line x1="15" y1="20" x2="30" y2="30" class="legend-line" />
+        <text class="legend-label" x="0" y="20" text-anchor="start" fill="#333">Trvalý trávny porast</text>
+        <text class="legend-percentage" x="0" y="24" text-anchor="start" fill="#555">17,1%</text>
+
+        <line x1="15" y1="10" x2="30" y2="10" class="legend-line" />
+        <text class="legend-label" x="0" y="10" text-anchor="start" fill="#333">Ostatná plocha</text>
+        <text class="legend-percentage" x="0" y="14" text-anchor="start" fill="#555">0,0%</text>
+
+    </svg>
 <img alt="Podla katastralneho uzemia" src="https://github.com/user-attachments/assets/067408ca-d718-446c-bfcb-dd69eb4b7929" />
 
 
