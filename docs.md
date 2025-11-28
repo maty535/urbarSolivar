@@ -8,8 +8,8 @@ permalink: /docs/
 
 | {: style=";background-color: #808080; color: white;font-weight: bold;" } Dátum        | {: style=";background-color: #808080; color: white;font-weight: bold;" } Dokument          |
 |-------------:|:------------------|
-| 14.1.2014   | [Zmluva o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](https://drive.google.com/file/d/1Pg6B8VEVYo5mc-6O8N4A9P99IBiuphA1/view?usp=drive_link) |
-|  4.6.2016   | [Stanovy pozemkového spoločenstva](https://drive.google.com/file/d/1Pfh-lHlUxjskoGDWySCoEPAnnQeqxNPW/view?usp=drive_link) |
+| 24.3.2019  | [Zmluva o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](https://drive.google.com/file/d/1Pg6B8VEVYo5mc-6O8N4A9P99IBiuphA1/view?usp=drive_link) |
+| 24.4.2022  | [Stanovy pozemkového spoločenstva](https://drive.google.com/file/d/1Pfh-lHlUxjskoGDWySCoEPAnnQeqxNPW/view?usp=drive_link) |
 
 # Zákony
 
@@ -29,7 +29,7 @@ permalink: /docs/
 
 | {: style=";background-color: #808080; color: white;font-weight: bold;" } Dátum        | {: style=";background-color: #808080; color: white;font-weight: bold;" } Dokument          | {: style=";background-color: #808080; color: white;font-weight: bold;" } Stav |
 |:-------------|:------------------|:------|
-| 18.6.2025    |[Juhovýchodný obchvat mesta Prešov](https://drive.google.com/file/d/1fENZ0vw4DWGOBrMYk4bUUpL8nrJOkXH1/view?usp=drive_link)|
+| 24.1.2025    |[Juhovýchodný obchvat mesta Prešov](https://drive.google.com/file/d/1fENZ0vw4DWGOBrMYk4bUUpL8nrJOkXH1/view?usp=drive_link)|
 
 
 # Lesné hospodárstvo
