@@ -40,7 +40,9 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 | Spolu:   {: style=";background-color: #808080; color: white;font-weight: bold;" }  | 237.7490 ha {: style=";background-color: #808080; color: white;font-weight: bold;" }  :||||
 
 
-<img src="https://github.com/user-attachments/assets/58a333bb-a95a-433d-937d-aff32d753b69" alt="Výmera urbáru podľa druhu plochy" usemap="#urbarMap">
+<img src="https://github.com/user-attachments/assets/58a333bb-a95a-433d-937d-aff32d753b69" alt="Výmera urbáru podľa druhu plochy" usemap="#urbarMap"
+     data-original-width="960" 
+     data-original-height="960">
 <map name="urbarMap">
     <area shape="poly" 
           coords="480,480,  480,200,  850,220,  850,750,  200,750,  250,550,  480,480" 
