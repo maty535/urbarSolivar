@@ -17,4 +17,6 @@ permalink: /contacts/
 |**dozorná rada**| +421 |
 |**štatutárny zástupca spoločenstva**| +421  |
 |**Finstat**| [Finančné ukazovatele](https://finstat.sk/42382742)|
+|**Výpis z registra**| [k 28.7.2025](https://drive.google.com/file/d/1FvbNIJsUwFz6dMj-B0hHqOxJJA7nRvK5/view?usp=drive_link)|
+
 
