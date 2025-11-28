@@ -36,7 +36,8 @@ permalink: /docs/
 
 | Dátum        | Dokument          | Stav |
 |:-------------|:------------------|:------|
-| | | |
+| |Program starostlivosti o les 2020 - 2029 | aktuálny, v platnosti|
+
 # Právo
 
 | Dátum        | Dokument          | Stav |
