@@ -53,8 +53,8 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
     datasets: [{
       data: [196.87, 40.74, 0.14], // Výmery v ha
       backgroundColor: [
-        'rgb(40, 167, 69)', // Zelená (Les)
-        'rgb(255, 193, 7)', // Žltá (TPP)
+        'lightBrown', // Zelená (Les)
+        'lightGreen', // Žltá (TPP)
         'rgb(108, 117, 125)' // Sivá (Ostatné)
       ],
       hoverOffset: 4
