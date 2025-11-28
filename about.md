@@ -75,17 +75,29 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
           text: 'Rozdelenie pozemkov podľa typu (v ha) - Kliknite pre detaily'
         }
       },
-      // PRIDANIE KLIKATEĽNOSTI:
+    // KĽÚČOVÁ FUNKCIA PRE KLIKANIE A PRESMEROVANIE
       onClick: (e, elements) => {
         if (elements.length > 0) {
           const clickedElementIndex = elements[0].index;
-          const label = dataPozemkyKlikatelny.labels[clickedElementIndex];
-          const value = dataPozemkyKlikatelny.datasets[0].data[clickedElementIndex];
+          let redirectUrl = null;
 
-          alert(`Klikli ste na: ${label}\nVýmera: ${value} ha`);
-          // Tu môžete pridať zložitejšiu logiku, napr.
-          // - Otvorenie modálneho okna s viacerými informáciami
-          // - Presmerovanie na novú stránku (window.location.href = '/stranka-lesy');
+          if (clickedElementIndex === 0) {
+            // Index 0: Lesný pozemok
+            redirectUrl = 'http://solivar.imcontec.eu/assets/img/mapa-lesy.jpg';
+          } else if (clickedElementIndex === 1) {
+            // Index 1: Trvalý trávny porast (Pasienky)
+            redirectUrl = 'http://solivar.imcontec.eu/assets/img/mapa-pasienky.jpg';
+          }
+
+          if (redirectUrl) {
+            // Otvorí odkaz v novom okne/karte. Pre otvorenie v rovnakom okne použite:
+            // window.location.href = redirectUrl;
+            window.open(redirectUrl, '_blank');
+          } else {
+            // Ostatná plocha
+            const label = dataPozemkyKlikatelny.labels[clickedElementIndex];
+            alert(`Klikli ste na: ${label}.\nPre túto kategóriu nie je definovaná mapa.`);
+          }
         }
       }
     },
