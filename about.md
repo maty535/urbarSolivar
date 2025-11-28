@@ -23,6 +23,7 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 | **Vykonáva podnikateľskú činnosť?** | nie |
 | **Spoločenstvo vlastníkov spoločne obhospod. nehnuteľnosti** | nie |
 | **Poznámka** | funkčné obdobie aktuálneho výboru a dorozornej rady plynie od 	16.06.2025 a konči najneskôr 	15.06.2030 |
+|**Výpis z registra**| [k 28.7.2025](https://drive.google.com/file/d/1FvbNIJsUwFz6dMj-B0hHqOxJJA7nRvK5/view?usp=drive_link)|
 
 ## Katastrálne informácie
 
@@ -113,9 +114,6 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 
 
 # Mapa urbárskych pozemkov
-![image](/assets/img/2025-10-11-MapaUrbaru-small.png)
-- [stiahnuť mapu ako pdf](/assets/2025-10-11-UrbarskePozemky.pdf)
-
 <iframe src="https://zbgis.skgeodesy.sk/mapka/e/ac88R?pos=48.953387,21.302007,12&bm=world-imagery" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 # História
