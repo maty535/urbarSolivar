@@ -46,9 +46,9 @@ kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GenerateP
 <script>
   const dataPozemkyKlikatelny = {
     labels: [
-      'Lesný pozemok (82.8%)',
-      'Trvalý trávny porast (17.1%)',
-      'Ostatná plocha (0.1%)'
+      'Lesný pozemok (196.87 ha | 82.8%)',
+      'Trvalý trávny porast (40.74 ha | 17.1%)',
+      'Ostatná plocha (0.14 ha | 0.1%)'
     ],
     datasets: [{
       data: [196.87, 40.74, 0.14], // Výmery v ha
