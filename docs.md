@@ -36,7 +36,7 @@ permalink: /docs/
 
 | {: style=";background-color: #808080; color: white;font-weight: bold;" } Dátum        | {: style=";background-color: #808080; color: white;font-weight: bold;" } Dokument          | {: style=";background-color: #808080; color: white;font-weight: bold;" } Stav |
 |:-------------|:------------------|:------|
-| 2020 | [Program starostlivosti o les 2020 - 2029](https://drive.google.com/file/d/10q6O0--iB35jI1psZCqLrHmhQL79QPhl/view?usp=drive_link) | aktuálny, v platnosti|
+| 2020 | [Program starostlivosti o les 2020 - 2029](https://tinyurl.com/4x3j8krw) | aktuálny, v platnosti|
 
 # Právo
 
