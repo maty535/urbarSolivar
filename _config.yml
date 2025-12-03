@@ -59,6 +59,9 @@ footer-hover-col: "#0085A1"
 #page-img: "/assets/img/bgimage.png"
 
 
+# Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
+gtag: "G-EG5J9K5M2B"
+
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
