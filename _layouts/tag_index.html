@@ -1,8 +1,11 @@
 ---
 layout: base
 ---
-<h1 align="center">Téma: {{ page.tag | capitalize }}</h1>
+
+<h2 align="center">Téma: {{ page.tag | capitalize }}</h2>
+
 <hr/>
+
 <ul class="archive-list">
     {% for post in site.tags[page.tag] %}
     <li>
