@@ -166,7 +166,7 @@ exclude:
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-spaceship
