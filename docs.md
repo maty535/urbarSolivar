@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dokumenty
-description: Základne dokumenty spoločenstva
+subtitle: Dokumenty a iné právne predpisy
 permalink: /docs/
 ---
 # Zakladateľské dokumenty
