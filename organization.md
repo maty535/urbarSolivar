@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Orgány
-description: Organizačná štruktúra spoločenstva
+subtitle: Organizačná štruktúra spoločenstva
 permalink: /organization/
 ---
 
