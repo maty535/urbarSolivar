@@ -1,22 +1,15 @@
 ---
-layout: page
 title: Oznamy spoločenstva
+layout: page
 list_title: Najnovšie oznamy
 css: "/assets/css/index.css"
 description: Prehľad oznamov spoločenstva
-pagination: 
+pagination:
   enabled: true
 cover-img:
- - "/assets/img/solivar-1.jpg" : "Solivar"
- - "/assets/img/solivar-2.jpg" : "Solivar klopačka"
+- "/assets/img/solivar-1.jpg": Solivar
+- "/assets/img/solivar-2.jpg": Solivar klopačka
 ---
-
-<div class="list-filters">
-  <a href="{{ / | relative_url }}" class="list-filter filter-selected">Všetko</a>
-  <a href="{{ /popular | relative_url }}" class="list-filter">Obľúbené</a>
-    <a href="{{/tags | relative_url }}" class="list-filter">Témy</a>
-</div>
-
 
 {% assign posts = paginator.posts | default: site.posts %}
 

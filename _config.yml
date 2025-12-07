@@ -5,13 +5,20 @@ url: "https://www.urbar-solivar.sk"
 # Name of website
 title: Urbár Solivar pozem. spol.
 
+#Language
+lang: sk_SK
+
 # Your name to show in the footer
-author: Výbor spoločenstva
+author: Na vyhliadke 6, 080 05 Prešov
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 # Tags
 tag_dir: tag
+
+# Remove Ads
+
+remove-ads: True
 
 navbar-links:
   O nás: "about"
@@ -78,6 +85,54 @@ defaults:
     values:
       layout: "page"
 
+
+#####################################
+# --- Footer social media links --- #
+#####################################
+
+# Select the social network links that you want to show in the footer.
+# You can change the order that they show up on the page by changing the order here.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+  email: "urbar.solivar@gmail.com"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+
+###########################
+# --- General options --- #
+###########################
+
+# Select which social network share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: false
+  reddit: false
+
+# How to display the link to your website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "urbar-solivar.sk"
+
+# Add the website title to the title of every page
+title-on-all-pages: true  
+
+# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
+excerpt_length: 50
+
+# Whether or not to show an excerpt for every blog post in the feed page
+feed_show_excerpt: true
+
+# Whether or not to show a list of tags below each post preview in the feed page
+feed_show_tags: true
+
+# Add a search button to the navbar
+post_search: true
+
+# Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
+edit_page_button: true
+
+
+  
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md

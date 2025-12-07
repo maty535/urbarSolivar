@@ -1,9 +1,9 @@
 ---
+title: Odštartovanie prác na webovom sídle
 layout: post
-title: "Odštartovanie prác na webovom sídle"
-date: 2025-10-10
-categories: web 
-tags: 2025 podielnici
+date: '2025-10-10'
+categories: web
+tags: 2025 web
 author: Ing. Matúš Ivanecký
 ---
 
