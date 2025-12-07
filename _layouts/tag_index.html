@@ -1,11 +1,9 @@
 ---
 layout: page
+hide_header: true
 ---
 
-<h1 align="center">Téma: {{ page.tag | capitalize }}</h1>
-
 <hr/>
-
 <ul class="archive-list">
     {% for post in site.tags[page.tag] %}
     <li>
