@@ -42,5 +42,5 @@ permalink: /docs/
 
 | {: style=";background-color: #808080; color: white;font-weight: bold;" } Dátum        | {: style=";background-color: #808080; color: white;font-weight: bold;" } Dokument          | {: style=";background-color: #808080; color: white;font-weight: bold;" } Stav |
 |:-------------|:------------------|:------|
-| | | |
+| Január 2021   | [Praktikum pozemkového práva](https://drive.google.com/file/d/1J7sm2tkFYAsTRTROYT9azH6-b9AJuw3B/view?usp=drive_link)| právny stav k 30.9.2021|
 
