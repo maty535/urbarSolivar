@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O nás
-description: Základne právne a registračné informácie o spoločenstve
+subtitle: Základne právne a registračné informácie o spoločenstve
 kataster_lv_uri_prefix: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?outputType=html"
 ---
 
