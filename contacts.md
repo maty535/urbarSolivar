@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kontakty
-description: Oficialné kontakty spoločenstva
+subtitle: Kontaktné a identifikačné údaje
 permalink: /contacts/
 ---
 
