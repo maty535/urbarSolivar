@@ -84,6 +84,8 @@ paginate: 10
 kramdown:
   input: GFM
 
+date_format: "%d. %m. %Y"
+
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
@@ -100,6 +102,10 @@ defaults:
     values:
       layout: "page"
 
+
+# If you want your website to generate an RSS feed, provide a description
+# The URL for the feed will be https://<your_website>/feed.xml
+rss-description: Rss Urbár Solivar pozem. spol.
 
 #####################################
 # --- Footer social media links --- #
@@ -160,6 +166,7 @@ exclude:
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-spaceship
