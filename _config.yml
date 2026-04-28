@@ -1,12 +1,12 @@
 # _config.yml
-# baseurl: "/urbarSolivar"
-url: "https://www.urbar-solivar.sk"
+baseurl: "/urbarSolivar"
+#url: "https://www.urbar-solivar.sk"
 
 # Name of website
 title: Urbár Solivar pozem. spol.
 
 #Language
-language: sk-SK
+lang: sk
 
 # Your name to show in the footer
 author: Urbár Solivar, Na vyhliadke 6, 080 05 Prešov
@@ -166,7 +166,7 @@ exclude:
   - LICENSE
   - README.md
   - screenshot.png
-  - docs/
+
 
 plugins:
   - jekyll-remote-theme
@@ -175,5 +175,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-spaceship
   - jekyll-admin
+  - jekyll-sitemap
 
 remote_theme: daattali/beautiful-jekyll@6.0.1 

@@ -7,4 +7,4 @@ tags: 2025 web
 author: Ing. Matúš Ivanecký
 ---
 
-- Dňa 10.10.2025 sa odštartovali práce na webovom sídle urbáru v Solivare
+- Dňa **10.10.2025** sa odštartovali práce na webovom sídle urbáru v Solivare
