@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Ponuka na predaj podielu "
+title: "Ponuka na predaj podielu na spoločnej nehnuteľnosti"
 date: 2025-03-24
 author: Výbor spoločenstva
 categories: ponuka predaj
 tags: predaj podielnici právo
-published: false
+published: true
 ---
 
 # PONUKA NA PREVOD PODIELU NA SPOLOČNEJ NEHNUTELNOSTJ PROSTREDNÍCTVOM VÝBORU
