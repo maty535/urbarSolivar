@@ -1,4 +1,4 @@
-  ---
+---
 layout: post
 title: "Ponuka na predaj podielu "
 date: 2025-03-24
